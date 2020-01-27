@@ -1,0 +1,45 @@
+
+*.pdf
+*.mm
+*.aeon2
+*.rtf
+*.docx
+*.doc
+*.db
+*.xmind
+*.scap
+*.eml
+*.zip
+*.7z
+*.wmv
+*.mp4
+*.xls
+*.xlsx
+*.m4v
+*.mp3
+*.bak
+*.edpi
+*.tif
+*.ppt
+*.pptx
+*.exe
+*.msg
+*.docm
+*.lnk
+*.plf
+*.mht
+*.url
+*.tmp
+*.tmp
+*.tmp
+*.wpd
+*.sublime-workspace
+*.sublime-project
+*.zks
+*.zkr
+*.leo
+
+_unsorted/
+# *.jpg
+# *.png
+# *.gif
