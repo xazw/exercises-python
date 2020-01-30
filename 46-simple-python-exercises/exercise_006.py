@@ -1,0 +1,8 @@
+"""
+EXERCISE-006
+SOLVED-
+
+
+
+"""
+
