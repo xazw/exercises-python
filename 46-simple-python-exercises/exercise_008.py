@@ -1,6 +1,6 @@
 """
 EXERCISE-008
-
+SOLVED_20200202-102648
 
 -   Define a function is_palindrome() that recognizes palindromes 
     (i.e. words that look the same written backwards). 
